@@ -1,13 +1,13 @@
 # Project 3 - Good News, Everyone!
-## https://shrouded-cove-05719.herokuapp.com/
+## https://bones81.github.io/Futurama-FE/
 
 ## Technologies Used
 ### Front-End
 Create-react-app was used to generate our staring code, we then took the reigns with React, Materialize's CSS Framework, Axios, and eventually Google Maps.
 
 ### Back-End
+##### Back-end hosted on Render.com at: https://futurama-back-end.onrender.com
 Express, Node, bcrypt, express-sessions, CORS, dotenv, and the MVC Design pattern were used server side with Mongo/Mongoose and MongoDB Atlas Cloud DB as data storage. Express, Node, bcrypt, express-sessions, CORS, Mongoose, Atlas, and dotenv were used to implement user creation and authorization, while Mongoose and Atlas managed data hanlding and delivery. A custom Express API was implemented using various controllers to deliver data based on routes. 
-Back-end hosted on Render.com at: https://futurama-back-end.onrender.com
 
 ### 3rd Party API
 ##### https://www.sampleapis.com/api-list/futurama
