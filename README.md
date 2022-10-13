@@ -7,6 +7,7 @@ Create-react-app was used to generate our staring code, we then took the reigns 
 
 ### Back-End
 Express, Node, bcrypt, express-sessions, CORS, dotenv, and the MVC Design pattern were used server side with Mongo/Mongoose and MongoDB Atlas Cloud DB as data storage. Express, Node, bcrypt, express-sessions, CORS, Mongoose, Atlas, and dotenv were used to implement user creation and authorization, while Mongoose and Atlas managed data hanlding and delivery. A custom Express API was implemented using various controllers to deliver data based on routes. 
+Back-end hosted on Render.com at: https://futurama-back-end.onrender.com
 
 ### 3rd Party API
 ##### https://www.sampleapis.com/api-list/futurama
@@ -14,7 +15,7 @@ We used this API to seed data and populate our database with real Futurama data!
 
 ### Deployment
 Back-End: Cloud DB hosted in MongoDB Atlas, Express server hosted on Heroku
-Front-End: React App hosted on Heroku
+Front-End: React App hosted on Github Pages
 
 ## Approach
 We worked together pretty much the entire time, starting with wireframing and following a mobile-first strategy. We utilized agile development methodologies such as daily stand-ups and work sprints. We started with basic CRUD server functionality and a simple card structure on the front end before building more complex functionality. We focused on content and functionality creation over styling for the majority of the project time, and spent our final day tying up loose ends and polishing layouts and styling across the app.
