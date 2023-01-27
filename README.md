@@ -22,8 +22,9 @@ We used this API to seed data and populate our database with real Futurama data!
 
 ### Deployment
 
-Back-End: Cloud DB hosted in MongoDB Atlas, Express server hosted on Render
-Front-End: React App hosted on Github Pages
+Back-End: Cloud DB hosted in MongoDB Atlas.
+Express server hosted on Render.
+Front-End: React App hosted on Github Pages.
 
 ## Approach
 
